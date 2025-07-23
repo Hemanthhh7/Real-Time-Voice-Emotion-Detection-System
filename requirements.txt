@@ -1,6 +1,7 @@
-librosa
-scikit-learn
-sounddevice
-numpy
 streamlit
+librosa
+numpy
+scikit-learn
 joblib
+soundfile
+resampy
